@@ -1,0 +1,10 @@
+E:\pemograman\Rezha_22.11.4750\perttmuan 3\pertemuan3\AplikasiLatihanTugas\obj\Debug\AplikasiLatihanTugas.csprojAssemblyReference.cache
+E:\pemograman\Rezha_22.11.4750\perttmuan 3\pertemuan3\AplikasiLatihanTugas\obj\Debug\AplikasiLatihanTugas.Form1.resources
+E:\pemograman\Rezha_22.11.4750\perttmuan 3\pertemuan3\AplikasiLatihanTugas\obj\Debug\AplikasiLatihanTugas.Properties.Resources.resources
+E:\pemograman\Rezha_22.11.4750\perttmuan 3\pertemuan3\AplikasiLatihanTugas\obj\Debug\AplikasiLatihanTugas.csproj.GenerateResource.cache
+E:\pemograman\Rezha_22.11.4750\perttmuan 3\pertemuan3\AplikasiLatihanTugas\obj\Debug\AplikasiLatihanTugas.csproj.CoreCompileInputs.cache
+E:\pemograman\Rezha_22.11.4750\perttmuan 3\pertemuan3\AplikasiLatihanTugas\bin\Debug\AplikasiLatihanTugas.exe.config
+E:\pemograman\Rezha_22.11.4750\perttmuan 3\pertemuan3\AplikasiLatihanTugas\bin\Debug\AplikasiLatihanTugas.exe
+E:\pemograman\Rezha_22.11.4750\perttmuan 3\pertemuan3\AplikasiLatihanTugas\bin\Debug\AplikasiLatihanTugas.pdb
+E:\pemograman\Rezha_22.11.4750\perttmuan 3\pertemuan3\AplikasiLatihanTugas\obj\Debug\AplikasiLatihanTugas.exe
+E:\pemograman\Rezha_22.11.4750\perttmuan 3\pertemuan3\AplikasiLatihanTugas\obj\Debug\AplikasiLatihanTugas.pdb
